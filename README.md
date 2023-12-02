@@ -1,18 +1,21 @@
 # Instacart-Market-Basket-Analysis
 
-**What is Instacart?**
+****What is Instacart?****
+
 Instacart is an online grocery delivery and pick-up service that connects users with personal shoppers who handpick and deliver groceries from local stores.
 
 
-**Why market Basket Analysis?**
+****Why market Basket Analysis?****
+
 Develop a recommendation system to suggest relevant products to customers based on their previous orders and preferences.
 
 
-**Motivation behind this project.**
+****Motivation behind this project.****
+
 Personally, as a user I see this as an opportunity to analyze, unravel patterns that can enhance overall shopping experience and optimize marketing strategies.
 
 
-**Problems we are going to solve via this project.**
+****Problems we are going to solve via this project.****
 
 **Problem 1:** Find out hidden association between products for better cross-selling and upselling. 
 
@@ -29,7 +32,7 @@ Personally, as a user I see this as an opportunity to analyze, unravel patterns 
 **Approach:** Using XGBoosting algorithm for product re-order prediction. 
 
 
-**Information regarding dataset:**
+****Information regarding dataset:****
 
 **Source link :** https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
 
@@ -42,7 +45,7 @@ Personally, as a user I see this as an opportunity to analyze, unravel patterns 
 **Departments.CSV :**  (21 rows, 2 columns) - The data has number of unique departments available and their corresponding id.
 
 
-**Steps Involved:**
+****Steps Involved:****
 
 1. Initial Data Analysis
 2. Exploratory Data Analysis
