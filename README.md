@@ -21,14 +21,19 @@ Personally, as a user I see this as an opportunity to analyze, unravel patterns 
 **Approach:** Using XGBoosting algorithm for product re-order prediction. 
 
 **Information regarding dataset:**
+
 **Source link :** https://www.kaggle.com/competitions/instacart-market-basket-analysis/data
 
 **Orders.CSV :**  (3421083 rows, 7 columns) - This file contains all the orders made by different users.
+
 **Products.CSV :**  (49688 rows, 4 columns) - This file contains the list of total products and their aisle and corresponding department details.
+
 **Aisles.CSV :** (134 rows, 2 columns) - The data gives the unique number of aisles and their unique id.
+
 **Departments.CSV :**  (21 rows, 2 columns) - The data has number of unique departments available and their corresponding id.
 
 **Steps Involved:**
+
 1. Initial Data Analysis
 2. Exploratory Data Analysis
 3. Feature Creation
