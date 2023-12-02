@@ -10,6 +10,7 @@ Develop a recommendation system to suggest relevant products to customers based 
 Personally, as a user I see this as an opportunity to analyze, unravel patterns that can enhance overall shopping experience and optimize marketing strategies.
 
 **Problems we are going to solve via this project.**
+
 **Problem 1:** Find out hidden association between products for better cross-selling and upselling. 
 **Approach:** Implement the Apriori algorithm to identify frequent item sets and generate association rules to find product associations.
 
